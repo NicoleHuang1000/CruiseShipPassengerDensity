@@ -1,5 +1,5 @@
 ---
-title: "DATA 303-DATA473 Assignment 3"
+title: "Principal-Component-Regression-Analysis"
 author: 'Jiemin Huang'
 output:
   pdf_document:
@@ -14,7 +14,7 @@ output:
 
 \newpage
 
-## Assignment Questions
+## Questions
 
 1. **(8 marks)**
 
